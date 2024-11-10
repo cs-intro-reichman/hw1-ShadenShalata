@@ -16,7 +16,7 @@ public class FVCalc {
 			count--;
 
 		}
-		System.out.println("After "+n+" years, $"+CurrentV+" saved at "+Rate+"% will yield $"+(int)FutureV);
+		System.out.println("After "+n+" years, a $"+CurrentV+" saved at "+Rate+"% will yield $"+(int)FutureV);
 
 	}
 }
